@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 To get a local copy up and running, follow these simple steps.
 
 ### Clone the repository
-bash git clone https://github.com/yourusername/Deployment2.git cd Deployment2
+bash git clone https://github.com/thegreatgabuza/Deployment2.git
 
 ### Open the project
 Open the `Deployment2.sln` file in Visual Studio 2022.
