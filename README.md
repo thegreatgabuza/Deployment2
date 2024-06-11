@@ -5,8 +5,7 @@ Deployment2 is an ASP.NET Core MVC web application designed to demonstrate the c
 
 ## Features
 - ASP.NET Core MVC architecture
-- Continuous Deployment with GitHub Actions
-- Azure App Service hosting
+- Continuous Deployment with Azure App Service
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
