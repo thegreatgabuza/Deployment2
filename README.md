@@ -10,7 +10,7 @@ Deployment2 is an ASP.NET Core MVC web application designed to demonstrate the c
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - An Azure account (Create one at [Azure Portal](https://portal.azure.com/))
 
