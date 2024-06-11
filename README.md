@@ -45,7 +45,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-TG at The Lab - [thegreatgabuza](mailto:21942025@dut4life.ac.za)
+TG at The Lab - [email](mailto:21942025@dut4life.ac.za)
 
 ## Acknowledgements
 - [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)
